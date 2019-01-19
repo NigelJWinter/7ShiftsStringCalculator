@@ -1,0 +1,17 @@
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\7ShiftStringCalculatorTests.dll
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\7ShiftStringCalculatorTests.pdb
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\7ShiftStringCalculator.exe
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\7ShiftStringCalculator.pdb
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\7ShiftStringCalculator.exe.config
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\obj\Debug\7ShiftStringCalculatorTests.csprojAssemblyReference.cache
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\obj\Debug\7ShiftStringCalculatorTests.csproj.CoreCompileInputs.cache
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\obj\Debug\7ShiftStringCalculatorTests.csproj.CopyComplete
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\obj\Debug\7ShiftStringCalculatorTests.dll
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculatorTests\obj\Debug\7ShiftStringCalculatorTests.pdb

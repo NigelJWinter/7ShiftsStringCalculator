@@ -1,0 +1,7 @@
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculator\bin\Debug\7ShiftStringCalculator.exe.config
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculator\bin\Debug\7ShiftStringCalculator.exe
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculator\bin\Debug\7ShiftStringCalculator.pdb
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculator\obj\Debug\7ShiftStringCalculator.csprojAssemblyReference.cache
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculator\obj\Debug\7ShiftStringCalculator.csproj.CoreCompileInputs.cache
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculator\obj\Debug\7ShiftStringCalculator.exe
+D:\CST\7ShiftStringCalculator\7ShiftStringCalculator\obj\Debug\7ShiftStringCalculator.pdb
